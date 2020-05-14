@@ -1,6 +1,6 @@
 # Project 3 - Udacity Deep Reinforcement Learning Nanodegree
 
-## Reacher
+## Playing Tennis with MADDPG
 
 <center><img src='Images/Tennis-Solved.gif'></center>
 
@@ -95,4 +95,4 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 
 See it in action here:
 
-[![Solving Reacher!](Images/Youtube.png)](https://youtu.be/2zeY2X5Njug "Tenis!")
+[![Solving Reacher!](Images/Youtube.png)](https://youtu.be/2zeY2X5Njug "Tennis!")
